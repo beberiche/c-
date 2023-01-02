@@ -16,7 +16,6 @@ int main() {
     cout << "\n";
     for (int i : a2)
         cout << i << " ";
-    cout << "\n";
 
     for (int i = 0; i < 10; i++)
         a3[i] = i;
